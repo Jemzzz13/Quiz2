@@ -4,27 +4,22 @@ ol {
   list-style-position: inside;
 }
 
-/* TODO 5 */
 * {
   text-align: center;
 }
 
-/* TODO 1 */
 p {
   color: red;
 }
 
-/* TODO 2 */
 .note {
   font-size: 20px;
 }
 
-/* TODO 3 */
 #id-selector-demo {
   color: green;
 }
 
-/* TODO 4 */
 li[value="4"] {
   color: blue;
 }
